@@ -135,38 +135,43 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
-#confirm-box {
-  position:absolute;
-  top: 550px;
-  text-align: center;
-  width: 100%;
-  height: 100%;
-  margin-bottom: 100%;
-}
-#confirm-box2 {
-  position:absolute;
-  top: 550px;
-  text-align: center;
-  width: 100%;
-  height: 100%;
-  margin-bottom: 100%;
 
-}
-#confirm-box3 {
-  position:absolute;
-  top: 550px;
+#confirm-box{
+  position: absolute;
+  top: 25%;
   text-align: center;
-  width: 100%;
-  height: 100%;
-  margin-bottom: 100%;
-
+  width: 25%;
+  height: 16%;
+  left: 38%;
+  background-color: beige;
 }
-#confirm-box4 {
-  position:absolute;
-  top: 550px;
-  text-align: center;
-  width: 100%;
-  height: 100%;
-  margin-bottom: 100%;
 
+#confirm-box2{
+  position: absolute;
+  top: 25%;
+  text-align: center;
+  width: 25%;
+  height: 16%;
+  left: 38%;
+  background-color: beige;
+}
+
+#confirm-box3{
+  position: absolute;
+  top: 25%;
+  text-align: center;
+  width: 25%;
+  height: 16%;
+  left: 38%;
+  background-color: beige;
+}
+
+#confirm-box4{
+  position: absolute;
+  top: 25%;
+  text-align: center;
+  width: 25%;
+  height: 16%;
+  left: 38%;
+  background-color: beige;
 }
